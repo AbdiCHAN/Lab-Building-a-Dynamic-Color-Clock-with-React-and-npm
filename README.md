@@ -7,7 +7,9 @@ The clock shows the current date and time and updates in real-time with a dynami
 
 ## Screenshot
 
+![Dynamic Color Clock]
 ![Dynamic Color Clock](dynamic-clock-lab-screenshot.png)
+
 
 > Make sure the image `dynamic-clock-lab-screenshot.png` is in the same folder as this README or adjust the path accordingly.
 
