@@ -1,0 +1,14 @@
+/* src/css/clock.css */
+.clock p {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #00ffcc; /* additional color beyond black & white */
+  text-align: center;
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0% { color: #00ffcc; }
+  50% { color: #ff00ff; }
+  100% { color: #00ffcc; }
+}

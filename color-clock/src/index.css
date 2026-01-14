@@ -1,0 +1,16 @@
+/* src/index.css */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #1e1e1e;
+  color: white;
+  margin: 0;
+}
+
+.app h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}

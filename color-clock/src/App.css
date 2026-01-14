@@ -1,0 +1,27 @@
+/* Style the main container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient background */
+  color: white;
+  text-align: center;
+}
+
+/* Style the clock text */
+.clock {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 10px 0;
+  color: #fff700; /* Yellow for visibility */
+  text-shadow: 1px 1px 2px black; /* Add subtle shadow */
+}
+
+/* Style subtitle text */
+.subtitle {
+  font-size: 1.2rem;
+  color: #f0f0f0;
+}
