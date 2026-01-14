@@ -45,6 +45,7 @@ npm start
 5.Open your browser and go to http://localhost:3000
  to see the dynamic color clock.
 
+**Project structure**
  Lab-Building-a-Dynamic-Color-Clock-with-React-and-npm/
 │
 ├─ src/
